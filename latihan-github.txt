@@ -1,3 +1,4 @@
 latihan github
 - sebagai pengenalan untuk memakai github
 - untuk membiasakan diri menggunakan github
+- untuk mempermudah mengikuti suatu projek
